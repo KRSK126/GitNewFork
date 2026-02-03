@@ -1,0 +1,5 @@
+[submodule "GitTestD"]
+	path = GitTestD
+	url = https://github.com/LuSiama/GitTestD.git
+[submodule "gittestd"]
+	branch = main
